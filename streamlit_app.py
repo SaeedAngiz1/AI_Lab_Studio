@@ -168,5 +168,6 @@ st.markdown("""
 <div style='text-align: center; color: #666; padding: 2rem 0;'>
     <p><strong>AI Lab Studio</strong> - Empowering Machine Learning Development</p>
     <p>Built with Streamlit 🎈 | Powered by scikit-learn, XGBoost, and more</p>
+    <p>Created by Mohammad Saeed Angiz</p>
 </div>
 """, unsafe_allow_html=True)
