@@ -1,6 +1,6 @@
 # 🧪 AI Lab Studio
 
-A comprehensive, production-ready Streamlit application for end-to-end machine learning development. Built for data scientists, ML engineers, and anyone looking to rapidly prototype and deploy machine learning models.
+A comprehensive, production-ready Streamlit application for end-to-end machine learning development. Built for data scientists, ML engineers, and anyone looking to rapidly prototype and deploy machine learning models. https://ai-lab-studio.streamlit.app
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
